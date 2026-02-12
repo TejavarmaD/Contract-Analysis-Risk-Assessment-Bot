@@ -1,5 +1,5 @@
 
-# Contract-Analysis-Risk-Assessment-Bot
+# DataForge: AI-Powered Contract ETL & Risk Intelligence Platform
 
 This repository implements a lightweight contract analysis and risk assessment prototype with a Streamlit UI. The goal is to provide a practical, extensible pipeline that:
 
